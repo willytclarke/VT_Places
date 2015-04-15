@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Silver Lake",
+        "Description": "Swim in the summer and snowshoe across in the winter",
+        "marker-symbol": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05308436277863,
+          43.8910598588013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "Name": "Bristol Falls",
+        "Description": "Great swimming hole with places to jump off rocks and climb behind a waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.04673850536346,
+          44.1272782929023
+        ]
+      }
+    }
+  ]
+}
