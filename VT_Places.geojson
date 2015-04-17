@@ -20,6 +20,23 @@
           43.98651577773638
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "Name": "Bristol Falls",
+        "Description": "Great swimming hole with places to jump off rocks and climb behind a waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.04673850536346,
+          44.1272782929023
+        ]
+      }
     }
 ]
 }
