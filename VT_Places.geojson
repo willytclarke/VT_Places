@@ -37,6 +37,98 @@
           44.1272782929023
         ]
       }
+    },
+    {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Black Sheep",
+        "Description": "A quaint restaurant loacted in Vergennes, VT. It is a great place to take the family or that cute girl you've been winking to next to Proctor's panini machine. The chicken is the best food you will ever eat. In your entire life."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.25339734554291,
+          44.1670911245462
+        ]
+      }
     }
 ]
+
+},
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Tourterelle",
+        "Description": "Head to this upscale, boutique B&B and French restaurant for a meal to remember. While not as tasty as its northern neighbor (Black Sheep) you will not be disappointed by their creative mixture of both French and Vermont style food. $$$$. (especially on valentines day...set menu...consider yourself warned."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17392349243164,
+          44.10034524623485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Bristol Bakery & Cafe",
+        "Description": "Great spot to relax and get some work done. Highly underrated. Great carrot cake. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.07773947715759,
+          44.133128916702475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "name": "Otter Creek Brewing",
+        "Description": "All Middlebury students should be required to head to the local brewery for an evening of debauchery. Otter Creek provides all those lucky enough to taste its wheat juice with a brief taste of the life to come."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17179918289185,
+          44.02929688405102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "name": "Woodchuck Cider Factory",
+        "description": "For those who prefer a daintier, sweeter alcoholic refreshment, head to Woodchuck for a fun date night and a guarenteed hangover the following morning."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16679954528807,
+          44.035961290356774
+        ]
+      }
+    }
+  ]
 }
+  
